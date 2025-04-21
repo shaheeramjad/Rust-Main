@@ -54,10 +54,10 @@ fn main() {
 // }
 
 //Compound Types
-fn compound() {
-    let tup = (500, 6.4, 1);
+// fn compound() {
+//     let tup = (500, 6.4, 1);
 
-    let (x, y, z) = tup;
+//     let (x, y, z) = tup;
 
-    println!("The value of y is: {y}");
-}
+//     println!("The value of y is: {y}");
+// }
